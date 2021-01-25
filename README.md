@@ -1,2 +1,2 @@
-# sp21-cs2-examples
+# Spring 2021 CS2 Examples
 Examples from CS2 at Clayton State | Spring 2021
