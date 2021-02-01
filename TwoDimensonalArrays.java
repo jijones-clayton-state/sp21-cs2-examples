@@ -9,8 +9,8 @@ public class TwoDimensonalArrays{
             System.out.println();
         }
         
-        //Summing all elements in a 2D array
-        // int total = 0; //accumulator
+        // // Summing all elements in a 2D array
+//         int total = 0; //accumulator
 //         for(int row = 0; row < numCourses.length; row++){
 //             for(int col = 0; col < numCourses[0].length; col++){
 //                 total += numCourses[row][col];
